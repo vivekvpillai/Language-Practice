@@ -3,6 +3,7 @@ public class Store {
   String productType;
   int inventoryCount;
   double inventoryPrice;
+  String checks;
 
   // constructor method
   public Store(String product, int count, double price) {
